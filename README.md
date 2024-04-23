@@ -11,15 +11,15 @@ To get started, simply jump in and follow the guidance in the notebook. Addition
 Fig. 1 shows example animations of the approximation of a known target function, modelled by an ANN, as the network is trained on synthetic data representing the target function, as allowed for by this resource. To demonstrate how this can be used for interactive and explorative learning, each animation shown is for a shallow neural network with 16 hidden neurons and the same initial weights, but different activation functions.
 
 <p align="center">
-  <img src="Images/sigmoid.gif" width="300" />
-  <img src="Images/leakyrelu.gif" width="300" />
-  <img src="Images/gelu.gif" width="300" /> <br />
-  <img src="Images/tanh.gif" width="300" />
-  <img src="Images/prelu.gif" width="300" />
-  <img src="Images/celu.gif" width="300" /> <br />
-  <img src="Images/relu.gif" width="300" />
-  <img src="Images/elu.gif" width="300" />
-  <img src="Images/mish.gif" width="300" /> <br />
+  <img src="Images/sigmoid.gif" width="250" />
+  <img src="Images/leakyrelu.gif" width="250" />
+  <img src="Images/gelu.gif" width="250" /> <br />
+  <img src="Images/tanh.gif" width="250" />
+  <img src="Images/prelu.gif" width="250" />
+  <img src="Images/celu.gif" width="250" /> <br />
+  <img src="Images/relu.gif" width="250" />
+  <img src="Images/elu.gif" width="250" />
+  <img src="Images/mish.gif" width="250" /> <br />
 	<em>
 		Figure 1: Example animations of the approximation of a known target function, modelled by an ANN, as the network is trained on synthetic data representing the target function. Each animation is for a shallow neural network with 16 hidden neurons and the same initial weights, but different activation functions. Top to bottom, left to right: Sigmoid, Tanh, ReLU, LeakyReLU, PReLU, ELU, GELU, CELU, Mish.
 	</em>
