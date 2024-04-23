@@ -1,6 +1,6 @@
 # Interactive Artificial Neural Network Function Approximation Demonstration
 
-This notebook is provided as a learning resource to aid students of machine learning in understanding artificial neural networks (ANNs).
+This [notebook](https://colab.research.google.com/github/ESandML/ANN-Demo/blob/main/ANN_Demo.ipynb) is provided as a learning resource to aid students of machine learning in understanding artificial neural networks (ANNs).
 
 With this resource, you are able to visualise an animation of the approximation of a known target function, modelled by an ANN, as the network is trained on synthetic data representing the target function, as well as decompositions of the final approximation. In this, you can experiment with different data and hyperparameters, such as the number of hidden layers, the number of hidden neurons, and the activation function, allowing for interactive learning. The visualisations are based on real Python code for training neural networks that is built in PyTorch, a popular library for deep learning, providing an accessible insight into the tools used to build today's advanced artificial intelligence systems.
 
